@@ -8,9 +8,9 @@ assignees: ''
 ---
 
 # What type of report is this?
-[] Mod*
-[] Mod Pack*
-[] Website
+[ ] Mod*
+[ ] Mod Pack*
+[ ] Website
 
 ## (*)Note: If a mod or modpack
 Name:
